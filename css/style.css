@@ -1,0 +1,393 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.container{
+	max-width: 1500px!important;
+}
+/**************************************************************************************/
+                         /*header section css starts from here*/
+/**************************************************************************************/
+.header-section{
+	width: 100%;
+	padding: 74px 0px 310px;
+	background: url("../images/bg1.png") center top no-repeat;
+	background-size: cover;
+}
+.header-section .bg-light{
+	background: transparent!important;
+}
+.header-section .nav-link{
+	margin-left: 40px;
+	font-family: 'Open Sans', sans-serif!important;
+	font-size: 14px;
+	font-weight: 400;
+	color: #ffffff!important;
+	transition: 1s;
+}
+.header-section .nav-link:hover{
+	color: #2870db!important;
+}
+.header-section .btn{
+	padding: 4px 25px;
+	margin-top: 3px;
+	margin-left: 44px;
+	border-radius: 10px;
+	background: #ffffff;
+	color: #14215e;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	border: 0px;
+	transition: 1s;
+}
+.header-section .btn:hover{
+	background: #14215e;
+	color: #2870db;
+}
+.header-section .btn:focus{
+	background: #14215e;
+	color: #2870db;
+	box-shadow: none;
+}
+.header-section .banner-section{
+	padding: 40px 0px;
+	margin-top: 90px;
+	margin-left:160px;
+}
+.header-section .banner-section h2{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 45px;
+	font-weight: 700;
+	color: #1c2056;
+}
+.header-section .banner-section p{
+	margin-top: 40px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	line-height: 35px;
+	font-weight: 400;
+	color: #9791ac;
+}
+.header-section .banner-section .btn{
+	padding: 18px 50px;
+	margin-top: 100px;
+	margin-left: 0px;
+	border-radius: 30px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	line-height: 28px;
+	font-weight: 700;
+	background: #2870db;
+	color: #ffffff;
+	border: 0px;
+	transition: 1s;
+}
+.header-section .banner-section .btn:hover{
+	background: #ffffff;
+	color: #2870db;
+}
+.header-section .banner-section .btn:focus{
+	background: #ffffff;
+	color: #2870db;
+	box-shadow: none;
+}
+/**************************************************************************************/
+                         /*header section css ends in here*/
+/**************************************************************************************/
+/**************************************************************************************/
+                         /*hiking trail section css starts from here*/
+/**************************************************************************************/
+.hiking-trail{
+	width: 100%;
+	padding-top:100px;
+	padding-bottom: 100px;
+	background: url("../images/bg2.png") center top no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+.hiking-trail .hk-title{
+	margin-bottom: 90px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 30px;
+	font-weight: 700;
+	color: #1c2056;
+}
+.hiking-trail .card1{
+	padding:78px 84px 78px 60px;
+	margin-top: 260px;
+	margin-left:200px;
+	border:  1px solid #fff;
+	border-radius: 19px;
+	background: #fff;
+	box-shadow: 2px 10px 19px #e2ebf4;
+	opacity: 2;
+	text-align: left;
+}
+.hiking-trail .card1 h4{
+	margin-bottom: 35px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 22px;
+	font-weight: 700;
+	color: #1c2056;
+}
+.hiking-trail .card1 p{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	line-height: 34px;
+	font-weight:500;
+	color: #5f7782;
+}
+.hiking-trail .card2{
+	margin-top: -210px;
+	margin-left: 40%;
+}
+.hiking-trail .card3{
+	margin-top: -210px;
+	
+}
+.hiking-trail .btn{
+	padding: 18px 50px;
+	margin-top: 180px;
+	margin-left:-90px;
+	border-radius: 30px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	line-height: 28px;
+	font-weight: 600;
+	background: #2870db;
+	color: #ffffff;
+	border: 0px;
+	transition: 1s;
+}
+.hiking-trail .btn:hover{
+	background: #ffffff;
+	color: #2870db;
+}
+.hiking-trail .btn:focus{
+	background: #ffffff;
+	color: #2870db;
+	box-shadow: none;
+}
+.hiking-trail .support{
+	margin-top: 160px;
+}
+.hiking-trail .support h2{
+	margin-bottom: 90px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 42px;
+	color: #1c2056;
+}
+.hiking-trail .support h4{
+	margin: 20px 0px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	font-weight:600;
+	color: #1c2056;
+}
+.hiking-trail .s-number{
+	margin: 20px 0px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 42px;
+	color: #1a56a3;
+}
+/**************************************************************************************/
+                         /*hiking trail section css ends in here*/
+/**************************************************************************************/
+/**************************************************************************************/
+                         /*Protecting trails section css starts from here*/
+/**************************************************************************************/
+.protecting-trails{
+	width: 100%;
+	padding-top: 60px;
+	padding-bottom: 100px;
+	background: url("../images/bg3.png") center top no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+.protecting-trails h2{
+	padding-bottom:90px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 42px;
+	color: #1c2056;
+}
+.protecting-trails .card{
+	width: 95%;
+	border-top: 0px solid #fbfcfc;
+	border-left:1px solid #fbfcfc;
+	border-right:1px solid #fbfcfc;
+	border-bottom:1px solid #fbfcfc;
+	border-radius: 20px;
+	transition: 1s;
+}
+.protecting-trails .card:hover{
+	box-shadow: 2px 10px 19px #e2ebf4;
+}
+.protecting-trails .card .card-img-top{
+	background:transparent;
+}
+.protecting-trails .card-control{
+	width: 80%;
+	margin: 0px auto;
+	text-align: left;
+}
+.protecting-trails .card-title{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 28px;
+	color: #1c2056;
+}
+.protecting-trails .card-text{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 26px;
+	color: #748993;
+}
+.protecting-trails a{
+	text-decoration: none;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+	color: #2870db;
+}
+/**************************************************************************************/
+                         /*Protecting trails section css ends in  here*/
+/**************************************************************************************/
+/**************************************************************************************/
+                         /*Footer section css starts from here*/
+/**************************************************************************************/
+.footer{
+	width: 100%;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	background: url("../images/bg4.png") center top no-repeat;
+	background-size: cover;
+}
+.footer .subscribe{
+	position: relative;
+	padding: 80px 0px 200px;
+	background: url("../images/bg5.png") center top no-repeat;
+	background-size: cover;
+	text-align: center;
+	border-radius: 20px;
+}
+.footer .subscribe h2{
+	margin: 20px 0px 40px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 42px;
+	color: #ffffff;
+}
+.footer .subscribe form{
+	display: inline-grid;
+}
+.footer .subscribe .form-control{
+	padding:29px 240px 25px 20px;
+	margin: 20px 10px 20px 0px;
+	border-radius: 18px;
+}
+.footer .subscribe .btn{
+	position: absolute;
+	top:76%;
+	right: 45%;
+	padding: 18px 50px;
+	border-radius: 30px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	line-height: 28px;
+	font-weight: 600;
+	background: #00aeff;
+	color: #ffffff;
+	border: 0px;
+	transition: 1s;
+}
+.footer .subscribe .btn:hover{
+	background: #ffffff;
+	color: #00aeff;
+}
+.footer .subscribe .btn:focus{
+	box-shadow: none;
+}
+.footer .subscribe ::placeholder {
+  color: #b2bec3;
+  opacity: 1;
+}
+.footer .footer-widget{
+	padding: 100px 0px 40px;
+}
+.footer .footer-widget .col-sm-2{
+	margin-left:45px;
+}
+.footer .footer-widget .sm-0{
+	margin-left:70px;
+}
+.footer .footer-widget h4{
+	margin-bottom: 40px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	font-weight: 600;
+	color: #ffffff;
+}
+.footer .footer-widget p{
+	margin-bottom: 40px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	line-height: 26px;
+	font-weight: 400;
+	color: #ffffff;
+}
+.footer .footer-widget h6{
+	margin-bottom: 40px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	line-height: 26px;
+	font-weight: 400;
+	color: #ffffff;
+}
+.footer .footer-widget ul{
+	list-style: none;
+}
+.footer .footer-widget ul li{
+	margin: 14px 0px;
+}
+.footer .footer-widget ul li a{
+	text-decoration: none;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	color: #ffffff;
+	transition: 1s;
+}
+.footer .footer-widget ul li a:hover{
+	color: #00aeff;
+}
+.footer .social-icons ul{
+	margin-left: 40px;
+	list-style: none;
+	display: block;
+}
+.footer .social-icons ul li{
+	margin-left: 10px;
+	display: inline-block;
+}
+.footer .social-icons ul li a .fa{
+	padding: 19px 21px;
+	background-color: white;
+    border-radius: 50%;
+    transition: 1s;
+}
+.footer .social-icons ul li a .fa:hover{
+	background: #00aeff;
+	color: #ffffff;
+}
+/**************************************************************************************/
+                         /*Footer section css ends in here*/
+/**************************************************************************************/
